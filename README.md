@@ -1,6 +1,10 @@
 # This app is currently deployed on:
 
 
+# On github at:
+https://github.com/jdaflana/tech-test-jason
+
+
 # How to Run Application Locally
 
 - I used pnpm to experiement. npm / yarn should also work

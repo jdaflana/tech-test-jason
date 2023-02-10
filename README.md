@@ -19,6 +19,10 @@ https://github.com/jdaflana/tech-test-jason
 
 # If this was a larger/proper application I would:
 
-- Restrict google api key to the desired URL.
 - Choose a different folder structure.
 - Add more tests.
+
+# The google api restrictions are limited to:
+
+http://localhost:5173/
+https://tech-test-jason.onrender.com/
